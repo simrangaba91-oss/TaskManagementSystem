@@ -10,3 +10,8 @@ A simple Python project for managing library books.
 - Python
 - Git
 - GitHub
+## How to Run
+
+Run the main program using:
+
+python3 main.py
